@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Romario corera
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in Fullstack developement
+- 🌱 I’m currently learning ReactJS and .net Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me romario.corera@gmail.com
 
